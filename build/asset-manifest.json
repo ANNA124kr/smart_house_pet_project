@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/smart_house_pet_project/static/css/main.073c9b0a.css",
+    "main.js": "/smart_house_pet_project/static/js/main.82958ed0.js",
+    "static/js/787.ab2ecdc9.chunk.js": "/smart_house_pet_project/static/js/787.ab2ecdc9.chunk.js",
+    "index.html": "/smart_house_pet_project/index.html",
+    "main.073c9b0a.css.map": "/smart_house_pet_project/static/css/main.073c9b0a.css.map",
+    "main.82958ed0.js.map": "/smart_house_pet_project/static/js/main.82958ed0.js.map",
+    "787.ab2ecdc9.chunk.js.map": "/smart_house_pet_project/static/js/787.ab2ecdc9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.82958ed0.js"
+  ]
+}
